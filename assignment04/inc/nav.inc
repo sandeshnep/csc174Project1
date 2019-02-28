@@ -1,8 +1,5 @@
 <nav>
 	<ul>
-		<li><a href="index.php">Home</a></li>
-		<li><a href="entertainment.php">The Evolution of Visual Entertainment</a></li>
-		<li><a href="programming.php">Programming Languages</a></li>
-		<li><a href="cats.php">Cute Cats</a></li>
+		<li><a href="http://csc174.org/assignment04/atlantis/entertainment.php">Go to the original website</a>
 	</ul>
 </nav>
