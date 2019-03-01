@@ -1,10 +1,16 @@
-# Overall:
+*Please note that I worked on assignment04, so do look at that subfolder.*
+## Typography
 
--   **domain**: Visual entertainment, programming languages, and cats are all things that people can interact with in their spare time. Whether that be watching something, writing your own code, or petting a feline friend, there's something here for everyone.
--   **ontology** 
-		- All of these are things people interact with in their spare time.
-		- Each of these has three sections, each giving an overview with one paragraph.
-		- Each of the talks about the history of the topics.
-		- Each of these talks about present uses and impacts of the topic.
--   **taxonomy**: See headings below. Three headings for each topic.
--   **choreography**: Three page website, with the current content.
+1. I picked Lato Sans serif for the H1 and H2 tags because Lato is bold yet friendly and casual. It is appropriate for the content, which is about spare-time activities. 
+2. Lato sans pairs well with Roboto which I used for H3 and paragraphs, which is more pragmatic and readable. Robotos' round edges make it inviting for the reader to read it. 
+
+## Readability
+
+1. I added sections between the H2's for semantic validity. I also added margins for each sections to maintain separations between different subtopics. 
+2. I made H1 bigger, and centered, making it user friendly. 
+3. I increased white spacing to H2 and P tags, which made it easier on the eyes. 
+4. I increased line spacing inside P tags for the same reason. 
+5. Each section has a consistent pattern of italicized H3's to contrast it from the H2. 
+6. I moved H2 to the left so that it becomes clear that the content under it belongs to it, as it appears nested.
+7. I arranged the H2's alphabetically, and highlighted the first letter of H2 by making it bigger and orange in appearance. This serves to improve contrast and repetition. 
+
